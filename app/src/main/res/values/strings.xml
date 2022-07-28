@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NaviPullRequestAssignment</string>
+    <string name="closed_pull_request">Closed Pull Request</string>
 </resources>
